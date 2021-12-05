@@ -1,0 +1,8 @@
+Acer;Asus;Lenovo;HP;Dell
+Processor:0.25;8;10;9;7;6
+Price:0.15;6;6;6;7;10
+Memory:0.25;9;10;10;9;8
+Battery:0.1;7;8;10;9;7
+Videocard:0.25;8;9;7;9;8
+
+
